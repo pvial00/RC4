@@ -1,5 +1,6 @@
 # RC4
-My python class implementation of the RC4 cipher  
+Python class implementation of the RC4 cipher (slighlty modeled after Apple's C implementation)  
+Supports both Python2 and Python3  
 
 from RC4 import RC4  
 
